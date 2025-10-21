@@ -8,4 +8,7 @@ int CapturePiece(GameState *g, int from, int over, int to);
 void PromoteKings(GameState *g);
 int CheckWin(const GameState *g);
 
+int GetRedScore(const GameState *g);
+int GetBlackScore(const GameState *g);
+
 #endif
