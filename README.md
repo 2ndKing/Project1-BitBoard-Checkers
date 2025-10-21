@@ -1,9 +1,9 @@
-# BitBoard Checkers — CS 3503 Project 1
+# CS 3503 Project 1 - BitBoard Checkers
 
 **Author:** Leandro Cherulli  
 **Course:** CS 3503 — Computer Organization & Architecture  
 **Project Type:** Individual Programming Assignment  
-**Language:** C (C11 Standard)  
+**Language:** C (C11 Standard)
 **Topic:** Bitboard Game Engine / Bitwise Manipulation  
 
 ---
@@ -45,6 +45,9 @@ Implemented in [`board.c`](./board.c) / [`game.c`](./game.c):
 ---
 
 ## Files
+
+Place all files in the same folder. Open your desired IDEA and run main.c.  
+The game will start.
 
 - bitops.c / bitops.h
 - board.c  / board.h      
