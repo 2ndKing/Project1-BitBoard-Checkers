@@ -70,10 +70,10 @@ The score updates automatically.
 
 ## Notes
 
-The board uses bit indexing from 0 (A1) at the bottom-left to 63 (H8) at the top-right.
-Only dark squares are used for piece placement and movement.
-All board operations (move, capture, scoring, promotion) are implemented using bitwise operators only.
-Scoring is calculated from live board state; no counters are incremented manually.
-This project avoids all arrays and dynamic memory, relying purely on 64-bit integers for efficiency.
-Designed, implemented, and tested on macOS ARM64 using Clang and CMake.
-Compatible with Linux and Windows using GCC or Clang.
+The board uses bit indexing from 0 (A1) at the bottom-left to 63 (H8) at the top-right.  
+Only dark squares are used for piece placement and movement.  
+All board operations (move, capture, scoring, promotion) are implemented using bitwise operators only.  
+Scoring is calculated from live board state; no counters are incremented manually.  
+This project avoids all arrays and dynamic memory, relying purely on 64-bit integers for efficiency.  
+Designed, implemented, and tested on macOS ARM64 using Clang and CMake.  
+Compatible with Linux and Windows using GCC or Clang.  
