@@ -1,4 +1,5 @@
 #include "board.h"
+#include "game.h"
 #include <stdio.h>
 
 void InitBoard(GameState *g) {
