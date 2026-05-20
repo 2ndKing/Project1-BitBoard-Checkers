@@ -1,10 +1,6 @@
-# CS 3503 Project 1 - BitBoard Checkers
+BitBoard Checkers
 
-**Author:** Leandro Cherulli  
-**Course:** CS 3503 — Computer Organization & Architecture  
-**Project Type:** Individual Programming Assignment  
-**Language:** C (C11 Standard)
-**Topic:** Bitboard Game Engine / Bitwise Manipulation  
+**Author:** Leandro Cherulli 
 
 ---
 
