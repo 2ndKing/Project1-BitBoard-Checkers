@@ -1,10 +1,8 @@
 BitBoard Checkers
 
-**Author:** Leandro Cherulli 
+Author: Leandro
 
----
-
-## Overview
+This is my third assignment of my Computer Org. & Architecture class.
 
 This project implements a **checkers game engine** using **bitboards**, a data-representation technique where each square on an 8×8 board corresponds to one bit in a 64-bit integer.  
 
